@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "projects": {
+      "api": "apps/api",
+      "api-e2e": "apps/api-e2e",
+      "web": "apps/web",
+      "web-e2e": "apps/web-e2e"
+    }
+  }
